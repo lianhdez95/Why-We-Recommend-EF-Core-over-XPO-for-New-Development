@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/lianhdez95/Why-We-Recommend-EF-Core-over-XPO-for-New-Development#readme)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/lianhdez95/Why-We-Recommend-EF-Core-over-XPO-for-New-Development/blob/master/README.en.md)
 
 
 # Por qué recomendamos EF Core sobre XPO para nuevos desarrollos
