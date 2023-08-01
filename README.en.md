@@ -1,5 +1,5 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/lianhdez95/Why-We-Recommend-EF-Core-over-XPO-for-New-Development#readme)
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/lianhdez95/Why-We-Recommend-EF-Core-over-XPO-for-New-Development/blob/main/README.es.md)
+
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/lianhdez95/Why-We-Recommend-EF-Core-over-XPO-for-New-Development/blob/main/README.md)
 
 
 # Why We Recommend EF Core over XPO for New Development
